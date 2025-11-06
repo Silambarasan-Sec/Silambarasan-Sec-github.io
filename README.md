@@ -167,9 +167,9 @@ Lead Security Consultant responsible for **Azure Security**, **SOC Operations**,
 
 ## 🎯 Interests
 
-- :art: Art & Culture
-- :person_in_lotus_position: Meditation
-- :badminton: Badminton
+- 🎨 Art & Culture  
+- 🧘‍♂️ Meditation  
+- 🏸 Badminton
 - 🥘 World Cuisine Exploration
 
 
