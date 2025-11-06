@@ -4,7 +4,9 @@
 📍 Aix-en-Provence, France | Willing to relocate / hybrid  
 📧 Somasundaram-Cyber-Sec@proton.me  
 🔗 [LinkedIn](https://www.linkedin.com/in/silambarasan-somasundaram)
-![QR Code]()
+
+ ![QR Code]()
+
 
 ---
 
