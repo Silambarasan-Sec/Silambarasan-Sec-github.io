@@ -23,7 +23,7 @@ I am seeking an **internal security engineer / SOC L3 / cyber defense role** whe
 
 ## **Core Competencies**
 
-| **SOC / Incident Response** | **Cloud & Identity Security** |
+| **SOC / Application Security** | **Cloud & Identity Security** |
 |---|---|
 | SIEM (ELK, Sentinel, Splunk) | Azure Security Center / Defender / Sentinel |
 | Threat Hunting & Triage L2/L3 | Azure AD, RBAC, Conditional Access, MFA |
