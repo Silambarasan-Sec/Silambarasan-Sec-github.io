@@ -1,4 +1,4 @@
-# **Silambarasan SOMASUNDARAM**
+# **Silam SOMASUNDARAM**
 **Senior Cyber Security Engineer**  |  **Security Operation Specialist** 
 **| Incident Response | Application Security Engineer**  
 📍 Aix-en-Provence, France | Willing to relocate / hybrid  
