@@ -111,6 +111,14 @@ Lead Security Consultant responsible for **Azure Security**, **SOC Operations**,
 - Enhanced **detection capabilities** through proactive **Threat Intelligence** integration (data leaks, IOC feeds, TTP tracking).
 - Executed targeted **threat hunting investigations**, contributing to earlier detection and reduced incident impact.
 
+**Key Security Projects**
+  - Key Vault Implementation for SQL Server database to implement Bring your own Key concept - **Azure Key Vault**
+  - Identity Access Management Migration for SAP Business application with **Azure Active Directory and OKTA**
+  - Implementing and Developping Technical Cyber Threat Intelligence Services **MISP** and **THEHIVE**
+  - Developping and Implementing Security gates via CI/CD to ensure the security of the application
+  - Implement SOC lab with MISP and THEHIVE in docker environment for proof of concept
+  - Implemented Single sign On migration for application LDAP accounts. 
+
 
 ---
 
@@ -141,7 +149,7 @@ Lead Security Consultant responsible for **Azure Security**, **SOC Operations**,
 
 ---
 
-## **Certifications**
+## 🎓 **Certifications**
 - **CISSP - Exam plannned on Jan 2026**
 - **Microsoft Azure Security Engineer (AZ-500)**
 - **CEH (EC-Council)**
@@ -151,17 +159,18 @@ Lead Security Consultant responsible for **Azure Security**, **SOC Operations**,
 
 ---
 
-## **Education**
+## 🎓 **Education**
 **Master of Science in Cybersecurity** — EPITA, France  
 **Master of Computer Applications** — Pondicherry University  
 **Bachelor of Computer Applications** — Thiruvalluvar University
 
 ---
 
-## **Languages**
+## 🌐 Languages
+- 🇬🇧 English — Fluent
+- 🇫🇷 French — Professional Working Proficiency
+- 🇮🇳 Tamil — Native
 
-- English | Fluent |
-- French | Professional Proficiency |
 
 ---
 
