@@ -1,6 +1,6 @@
 # **Silambarasan SOMASUNDARAM**
-**Senior Cyber Security Engineer**  
-**SOC L3 | Incident Response | Cloud & IAM Security (Azure)**  
+**Senior Cyber Security Engineer**  |  **Security Engineer** 
+**| Incident Response | Cloud & IAM Security (Azure)**  
 📍 Aix-en-Provence, France | Willing to relocate / hybrid  
 📧 Somasundaram-Cyber-Sec@proton.me  
 🔗 [LinkedIn](https://www.linkedin.com/in/silambarasan-somasundaram)
@@ -8,10 +8,11 @@
 ---
 
 ## **About Me**
-I am a Senior Cyber Security Engineer with 9+ years of experience in **SOC L2/L3, Incident Response, Detection Engineering, Cloud Security (Azure), IAM, and Vulnerability Management**.
+I am a Senior Cyber Security Engineer with 9+ years of experience in **SOC L2/L3, Incident Response, Detection Engineering, Cloud Security (Azure), IAM, Vulnerability Management, Application Security**.
 
 I specialize in:
 - Detecting and responding to complex security incidents,
+- Implementing Security devlopment life cycle and performing application security assessment
 - Improving detection coverage (SIEM / EDR / NDR),
 - Hardening identity & cloud environments (Azure AD / RBAC / MFA / Zero Trust),
 - Supporting security teams and mentoring analysts.
@@ -29,6 +30,9 @@ I am seeking an **internal security engineer / SOC L3 / cyber defense role** whe
 | EDR / NDR / IDS (CrowdStrike, S1, Suricata) | AD / GPO Hardening, Kerberos, PAM |
 | Forensics (Volatility, PCAP, Sysmon) | Network segmentation, Firewalling |
 | MITRE ATT&CK, NIST IR 800-61 | CIS Benchmarks, Zero Trust |
+| SAST / DAST / SCA integration (SonarQube, Snyk, Blackduck)
+| CI/CD pipeline hardening & SBOM validation
+| Secure coding standards & architecture patterns
 
 ---
 
@@ -79,6 +83,7 @@ I am seeking an **internal security engineer / SOC L3 / cyber defense role** whe
 ---
 
 ## **Certifications**
+- **CISSP - Exam plannned on Jan 2026**
 - **Microsoft Azure Security Engineer (AZ-500)**
 - **CEH (EC-Council)**
 - **CySA+**
@@ -105,4 +110,4 @@ I am seeking an **internal security engineer / SOC L3 / cyber defense role** whe
 ## **Contact**
 📧 **Email:** Somasundaram-Cyber-Sec@proton.me  
 🔗 **LinkedIn:** https://www.linkedin.com/in/silambarasan-somasundaram
-
+🔗 **GithHub-Project-Perso:** https://github.com/seenu0991
