@@ -74,6 +74,13 @@ I am seeking an **internal security engineer / Security Operational Specialist /
 - **Bash** | Linux automation & triage |
 - **JavaScript / TypeScript / Go / .NET** | AppSec analysis context for reviews |
 
+---
+
+### **Functional Skills**
+
+- Project coordination, prioritization & KPI tracking (PowerBI, Excel)
+- Clear communication and technical documentation
+- Autonomy, initiative, knowledge sharing, teamwork
 
 
 ---
@@ -155,6 +162,16 @@ Lead Security Consultant responsible for **Azure Security**, **SOC Operations**,
 
 - English | Fluent |
 - French | Professional Proficiency |
+
+---
+
+## 🎯 Interests
+
+- :art: Art & Culture
+- :person_in_lotus_position: Meditation
+- :badminton: Badminton
+- 🥘 World Cuisine Exploration
+
 
 ---
 
