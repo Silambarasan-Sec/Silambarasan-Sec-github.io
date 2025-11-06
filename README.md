@@ -1,6 +1,6 @@
 # **Silambarasan SOMASUNDARAM**
-**Senior Cyber Security Engineer**  |  **Security Engineer** 
-**| Incident Response | Cloud & IAM Security (Azure)**  
+**Senior Cyber Security Engineer**  |  **Security Operation Specialist** 
+**| Incident Response | Application Security Engineer**  
 📍 Aix-en-Provence, France | Willing to relocate / hybrid  
 📧 Somasundaram-Cyber-Sec@proton.me  
 🔗 [LinkedIn](https://www.linkedin.com/in/silambarasan-somasundaram)
@@ -8,7 +8,7 @@
 ---
 
 ## **About Me**
-I am a Senior Cyber Security Engineer with 9+ years of experience in **SOC L2/L3, Incident Response, Detection Engineering, Cloud Security (Azure), IAM, Vulnerability Management, Application Security**.
+I am a Senior Cyber Security Engineer with 9+ years of experience in **SOC L2/L3, Incident Response, Detection Engineering, Cloud Security (Azure), IAM, Vulnerability Management,Threat intelligence,Application Security**.
 
 I specialize in:
 - Detecting and responding to complex security incidents,
@@ -17,22 +17,65 @@ I specialize in:
 - Hardening identity & cloud environments (Azure AD / RBAC / MFA / Zero Trust),
 - Supporting security teams and mentoring analysts.
 
-I am seeking an **internal security engineer / SOC L3 / cyber defense role** where I can bring operational impact and enhance the organization's defensive maturity.
+I am seeking an **internal security engineer / Security Operational Specialist / cyber defense role** where I can bring operational impact and enhance the organization's defensive maturity.
 
 ---
 
 ## **Core Competencies**
+## 🛡️ Technical Skills Overview
 
-| **SOC / Application Security** | **Cloud & Identity Security** |
-|---|---|
-| SIEM (ELK, Sentinel, Splunk) | Azure Security Center / Defender / Sentinel |
-| Threat Hunting & Triage L2/L3 | Azure AD, RBAC, Conditional Access, MFA |
-| EDR / NDR / IDS (CrowdStrike, S1, Suricata) | AD / GPO Hardening, Kerberos, PAM |
-| Forensics (Volatility, PCAP, Sysmon) | Network segmentation, Firewalling |
-| MITRE ATT&CK, NIST IR 800-61 | CIS Benchmarks, Zero Trust |
-| SAST / DAST / SCA integration (SonarQube, Snyk, Blackduck)
-| CI/CD pipeline hardening & SBOM validation
-| Secure coding standards & architecture patterns
+### **Threat Intelligence & Malware Analysis**
+- Phishing campaign analysis (URLs, attachments, spoofing patterns)
+- IOC / IOA extraction and enrichment
+- Malware & document investigation (sandbox + static indicators)
+- TTP mapping aligned to **MITRE ATT&CK**
+- Cybersquatting detection & monitoring
+- Data leak exposure tracking and mitigation
+
+---
+
+### **Detection Engineering & Incident Response**
+- SIEM / EDR rule tuning & behavioral signature development
+- False Positive / False Negative reduction
+- Playbook execution aligned to **NIST 800-61**
+- Alert triage & escalation (SOC L1/L2 support → L3 decision-making)
+- Investigation workflow standardization and documentation
+
+---
+
+### **Application & Infrastructure Security**
+- Code review (white-box & grey-box)
+- Authentication & session security flow analysis
+- Secure SDLC & CI/CD pipeline safeguards
+- **OWASP ASVS / MASVS** methodology in review processes
+- SAST / DAST / SCA tool integration and policy enhancements
+
+---
+
+### **Vulnerability & Risk Management**
+- **CVE / CVSS / CWE** vulnerability reasoning and ranking
+- Exposure prioritization based on business impact
+- Remediation guidance for Ops / Dev / Cloud teams
+- Reporting tailored for technical & non-technical audiences
+
+---
+
+### **Scripting & Analysis Automation**
+- Python (automation, investigation helpers, scanning logic)
+- Regex for log and IOC pattern extraction
+- Familiarity with **YARA** for malware behavior classification
+
+---
+
+### **Programming Languages**
+| Language | Usage |
+|---------|--------|
+| **Python** | Automation, threat analysis scripts |
+| **PowerShell** | Windows IR & hardening automation |
+| **Bash** | Linux automation & triage |
+| **JavaScript / TypeScript / Go / .NET** | AppSec analysis context for reviews |
+
+
 
 ---
 
@@ -41,18 +84,27 @@ I am seeking an **internal security engineer / SOC L3 / cyber defense role** whe
 ### **Technical Security Lead** — *Devoteam (long-term embedded mission)*  
 **2021 – Present | France**
 
-- Led **SOC / Incident Response / Cloud Security** operations in hybrid infrastructures.
-- **Reduced MTTR by ~35%** through playbook optimization & L2/L3 escalation workflows.
-- Created and tuned **30+ SIEM detection use cases** → **~40% false-positive reduction**.
-- Conducted **forensic investigations** (memory, logs, endpoint telemetry).
-- Strengthened **IAM posture** (privilege audits, MFA enforcement, RBAC redesign).
-- **Mentored 4+ SOC / SecOps analysts**, improving detection and investigation maturity.
+Lead Security Consultant responsible for **Azure Security**, **SOC Operations**, and **DevSecOps** strategy and implementation.
 
-**Key Achievements**
+ **Leadership & Enablement Contributions**
+
+- Designed and administered **security recruitment evaluation frameworks**, including hands-on technical tests.
+- Built a **SOC lab environment** and demonstrated a **CTI Proof-of-Concept** for pre-sales and internal capability development.
+- Conducted **security tooling assessments** and aligned solution selection with business risk and architectural constraints.
+- Led **knowledge-sharing workshops** (Azure Sentinel, CI/CD security, data compliance) for **40+ engineers across teams**.
+- Mentored junior engineers in **secure coding**, **vulnerability analysis**, and **application security fundamentals**.
+
+
+**Key Achievements - MISSIONS CMACGM && ADSN**
 - Designed a **Cyber Threat Intelligence (CTI) service model** and trained SOC teams.
 - Led **Purple Team attack simulations** using Python + EDR telemetry.
 - Maintained **continuous monitoring** of vulnerabilities (CERT-FR / ANSSI / CISA KEV).
 - Improved incident response documentation and crisis coordination workflows.
+- Maintained continuous **vulnerability monitoring** and delivered actionable **risk reports** to guide remediation prioritization.
+- Aligned internal teams on vulnerability impact and coordinated timely **patching and configuration hardening**.
+- Enhanced **detection capabilities** through proactive **Threat Intelligence** integration (data leaks, IOC feeds, TTP tracking).
+- Executed targeted **threat hunting investigations**, contributing to earlier detection and reduced incident impact.
+
 
 ---
 
@@ -79,6 +131,7 @@ I am seeking an **internal security engineer / SOC L3 / cyber defense role** whe
 
 - Performed infrastructure vulnerability management & firewall policy audits.
 - Handled security incident triage using IBM QRadar and log correlation tools.
+- Conducted source code security reviews (white-box / grey-box): reading code, identifying logic flaws, and reviewing authentication flows and session management   mechanisms
 
 ---
 
