@@ -68,12 +68,11 @@ I am seeking an **internal security engineer / Security Operational Specialist /
 ---
 
 ### **Programming Languages**
-| Language | Usage |
-|---------|--------|
-| **Python** | Automation, threat analysis scripts |
-| **PowerShell** | Windows IR & hardening automation |
-| **Bash** | Linux automation & triage |
-| **JavaScript / TypeScript / Go / .NET** | AppSec analysis context for reviews |
+
+- **Python** | Automation, threat analysis scripts |
+- **PowerShell** | Windows IR & hardening automation |
+- **Bash** | Linux automation & triage |
+- **JavaScript / TypeScript / Go / .NET** | AppSec analysis context for reviews |
 
 
 
@@ -153,10 +152,9 @@ Lead Security Consultant responsible for **Azure Security**, **SOC Operations**,
 ---
 
 ## **Languages**
-| Language | Level |
-|---|---|
-| English | Fluent |
-| French | Professional Proficiency |
+
+- English | Fluent |
+- French | Professional Proficiency |
 
 ---
 
