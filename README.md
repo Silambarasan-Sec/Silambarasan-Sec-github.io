@@ -92,7 +92,7 @@ I am seeking an **internal security engineer / Security Operational Specialist /
 ## **Professional Experience**
 
 ### **Technical Security Lead** — *Devoteam (long-term embedded mission)*  
-**2021 – Present | France**
+**2022 – Present | France**
 
 Lead Security Consultant responsible for **Azure Security**, **SOC Operations**, and **DevSecOps** strategy and implementation.
 
