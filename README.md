@@ -74,6 +74,7 @@ I am seeking an **internal security engineer / Security Operational Specialist /
 - **PowerShell** | Windows IR & hardening automation |
 - **Bash** | Linux automation & triage |
 - **JavaScript / TypeScript / Go / .NET** | AppSec analysis context for reviews |
+- **Terraform** | Application managment - Containerzation environment
 
 ---
 
