@@ -49,6 +49,7 @@ I am seeking an **internal security engineer / Security Operational Specialist /
 - Secure SDLC & CI/CD pipeline safeguards
 - **OWASP ASVS / MASVS** methodology in review processes
 - SAST / DAST / SCA tool integration and policy enhancements
+- Cloud Security Azure and AWS (IAM, VPC Security, Azure Sentine logs CloudTrail / Cloud Logging )
 
 ---
 
@@ -81,6 +82,8 @@ I am seeking an **internal security engineer / Security Operational Specialist /
 - Project coordination, prioritization & KPI tracking (PowerBI, Excel)
 - Clear communication and technical documentation
 - Autonomy, initiative, knowledge sharing, teamwork
+- Responsive and effective under pressure (critical incidents, production)
+- Pragmatic approach: we deal with real risks, not theoretical problems
 
 
 ---
