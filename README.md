@@ -117,9 +117,9 @@ Lead Security Consultant responsible for **Azure Security**, **SOC Operations**,
 **Key Security Projects**
   - Key Vault Implementation for SQL Server database to implement Bring your own Key concept - **Azure Key Vault**
   - Identity Access Management Migration for SAP Business application with **Azure Active Directory and OKTA**
-  - Implementing and Developping Technical Cyber Threat Intelligence Services **MISP** and **THEHIVE**
-  - Developping and Implementing Security gates via CI/CD to ensure the security of the application
-  - Implement SOC lab with MISP and THEHIVE in docker environment for proof of concept
+  - Implemented and Developped Technical Cyber Threat Intelligence Services **MISP** and **THEHIVE**
+  - Developped and Implemented Security gates via CI/CD to ensure the security of the application
+  - Implemented SOC lab with MISP and THEHIVE in docker environment for proof of concept
   - Implemented Single sign On migration for application LDAP accounts. 
 
 
