@@ -1,4 +1,4 @@
-mindmap
+``` mindmap
   root((Cybercrime 2026))
     AI-Driven Attacks
       Phishing Automation
@@ -20,3 +20,4 @@ mindmap
       Third-Party SaaS Risks
       Software Dependency Attacks
       Trust Relationship Abuse
+```
