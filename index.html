@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting…</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <noscript>
+    <!-- Fallback for no-JS: send everyone to English home -->
+    <meta http-equiv="refresh" content="0; url=/en/">
+  </noscript>
+  <script>
+    (function() {
+      // If you're using a project site later, set your base path here, e.g. "/my-repo"
+      var base = "https://silambarasan-sec.github.io/Silambarasan-Sec-github.io/"; // for user site https://silambarasan-sec.github.io keep ""
+
+      // If already on /en/ or /fr/ paths, do nothing (prevents loops)
+      var path = location.pathname;
+      if (path.startsWith(base + "/en/") || path.startsWith(base + "/fr/")) return;
+
+      // 1) Respect a stored user choice, if any
+      try {
+        var pref = localStorage.getItem("preferred_lang");
+        if (pref === "fr" || pref === "en") {
+          location.replace(base + "/" + pref + "/");
+          return;
+        }
+      } catch (e) {}
+
+      // 2) Otherwise detect from browser languages
+      var langs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || "en"];
+      var target = "en";
+      for (var i = 0; i < langs.length; i++) {
+        var l = (langs[i] || "").toLowerCase();
+        if (l === "fr" || l.startsWith("fr-")) { target = "fr"; break; }
+      }
