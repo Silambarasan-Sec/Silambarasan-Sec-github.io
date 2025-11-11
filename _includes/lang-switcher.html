@@ -1,0 +1,17 @@
+{% if page.lang == 'fr' %}
+  {% assign other = 'en' %}
+{% else %}
+  {% assign other = 'fr' %}
+{% endif %}
+
+{% if page.url contains '/en/' %}
+  {% assign other_url = page.url | replace_first: '/en/', '/fr/' %}
+{% elsif page.url contains '/fr/' %}
+  {% assign other_url = page.url | replace_first: '/fr/', '/en/' %}
+{% else %}
+  {% assign other_url = '/' | append: other | append: '/' %}
+{% endif %}
+
+<a href="{{ other_url | relative_url }}" onclick="try{localStorage.setItem('preferred_lang','{{ other }}')}catch(e){}">
+  {% if other == 'en' %}🇬🇧 English{% else %}🇫🇷 Français{% endif %}
+</a>
