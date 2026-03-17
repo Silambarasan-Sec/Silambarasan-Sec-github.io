@@ -154,7 +154,7 @@ Lead Security Consultant responsible for **Azure Security**, **SOC Operations**,
 ---
 
 ## 🎓 **Certifications**
-- **CISSP - Exam plannned on Jan 2026**
+- **CISSP**
 - **Microsoft Azure Security Engineer (AZ-500)**
 - **CEH (EC-Council)**
 - **CySA+**
