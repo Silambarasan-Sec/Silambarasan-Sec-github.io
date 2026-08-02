@@ -1,5 +1,5 @@
 # **Silam SOMASUNDARAM**
-**Senior Cyber Security Engineer**  |  **Security Operation Specialist** 
+**Réfèrent Cybersécurité** | **Senior Cyber Security Engineer**  |  **Security Operation Specialist** 
 **| Incident Response | Application Security Engineer**  
 📍 Aix-en-Provence, France | Willing to relocate / hybrid  
 📧 Somasundaram-Cyber-Sec@proton.me  
@@ -91,8 +91,19 @@ I am seeking an **internal security engineer / Security Operational Specialist /
 
 ## **Professional Experience**
 
+### **Réfèrent CyberSécurité ** — *EDF (long-term embedded mission)*  
+**May 2025 – Present | Paris France**
+
+- Accompagner les équipes en charge des produits numériques dans le parcours sécurité IT, sûreté, et protection des données personnelles 
+- S’assurer de l'intégration des exigences de cybersécurité dans les projets IT, en lien avec les enjeux métiers et réglementaires.  
+- Réaliser et animer les analyses de risques, proposer les mesures de sécurité adaptées et conseiller les architectes et chefs de projet. 
+- Superviser les contrôles de conformité et maintenir une vision actualisée des risques et plan d’action sur votre périmètre.  Animer le réseau des security - - -- champions présents au sein des équipes produit et garantir leur montée en compétence. 
+- Contribuer à la stratégie cybersécurité de la DivNum, en participant à l’évolution des référentiels et à la définition des besoins techniques.  
+- Développer l'automatisation des contrôles (CI/CD, IaC) et renforcer la posture cyber à travers des actions d’acculturation (ex: Cyber Week). 
+- Participer à la gestion de crise cyber et à la continuité des opérations IT.
+
 ### **Technical Security Lead** — *Devoteam (long-term embedded mission)*  
-**2022 – Present | France**
+**2022 – 2025 | Marseille France**
 
 Lead Security Consultant responsible for **Azure Security**, **SOC Operations**, and **DevSecOps** strategy and implementation.
 
