@@ -94,13 +94,13 @@ I am seeking an **internal security engineer / Security Operational Specialist /
 ### **Réfèrent CyberSécurité ** — *EDF (long-term embedded mission)*  
 **May 2025 – Present | Paris France**
 
-- Accompagner les équipes en charge des produits numériques dans le parcours sécurité IT, sûreté, et protection des données personnelles 
-- S’assurer de l'intégration des exigences de cybersécurité dans les projets IT, en lien avec les enjeux métiers et réglementaires.  
-- Réaliser et animer les analyses de risques, proposer les mesures de sécurité adaptées et conseiller les architectes et chefs de projet. 
-- Superviser les contrôles de conformité et maintenir une vision actualisée des risques et plan d’action sur votre périmètre.  Animer le réseau des security - - -- champions présents au sein des équipes produit et garantir leur montée en compétence. 
-- Contribuer à la stratégie cybersécurité de la DivNum, en participant à l’évolution des référentiels et à la définition des besoins techniques.  
-- Développer l'automatisation des contrôles (CI/CD, IaC) et renforcer la posture cyber à travers des actions d’acculturation (ex: Cyber Week). 
-- Participer à la gestion de crise cyber et à la continuité des opérations IT.
+-Support teams responsible for digital products throughout the IT security, safety, and personal data protection lifecycle. 
+-Ensure the integration of cybersecurity requirements into IT projects, taking into account business needs and regulatory requirements. 
+-Conduct and facilitate risk assessments, recommend appropriate security measures, and provide guidance to architects and project managers. 
+-Develop automated security controls (CI/CD, IaC) and strengthen the organization's cybersecurity posture through security awareness and training initiatives (e.g., Cyber Week). 
+-Participate in cyber crisis management and ensure IT business continuity and operational resilience
+-Identify the seucrity measures and residual risks for AI projects such as Dataiku,Gemini LLM (SaaS, onprem)
+
 
 ### **Technical Security Lead** — *Devoteam (long-term embedded mission)*  
 **2022 – 2025 | Marseille France**
