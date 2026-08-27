@@ -94,12 +94,12 @@ I am seeking an **internal security engineer / Security Operational Specialist /
 ### **Réfèrent CyberSécurité ** — *EDF (long-term embedded mission)*  
 **May 2025 – Present | Paris France**
 
--Support teams responsible for digital products throughout the IT security, safety, and personal data protection lifecycle. 
--Ensure the integration of cybersecurity requirements into IT projects, taking into account business needs and regulatory requirements. 
--Conduct and facilitate risk assessments, recommend appropriate security measures, and provide guidance to architects and project managers. 
--Develop automated security controls (CI/CD, IaC) and strengthen the organization's cybersecurity posture through security awareness and training initiatives (e.g., Cyber Week). 
--Participate in cyber crisis management and ensure IT business continuity and operational resilience
--Identify the seucrity measures and residual risks for AI projects such as Dataiku,Gemini LLM (SaaS, onprem)
+- Support teams responsible for digital products throughout the IT security, safety, and personal data protection lifecycle. 
+- Ensure the integration of cybersecurity requirements into IT projects, taking into account business needs and regulatory requirements. 
+- Conduct and facilitate risk assessments, recommend appropriate security measures, and provide guidance to architects and project managers. 
+- Develop automated security controls (CI/CD, IaC) and strengthen the organization's cybersecurity posture through security awareness and training initiatives (e.g., Cyber Week). 
+- Participate in cyber crisis management and ensure IT business continuity and operational resilience
+- Identify the seucrity measures and residual risks for AI projects such as Dataiku,Gemini LLM (SaaS, onprem)
 
 
 ### **Technical Security Lead** — *Devoteam (long-term embedded mission)*  
